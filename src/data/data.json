@@ -1,0 +1,129 @@
+{
+    "Header": {
+
+        "title": "IQ TestChain",
+        "paragraph": "The first IQ Test runing on Ethereum blockchain."
+
+    },
+    "About": {
+        "paragraph": "This is an untimed IQ Test that is stored on ethereum blockchain, you have all the time you need to answer the questions. This is a hard test and require a considerable amount of effort to be solved",
+        "Why": [
+            "The formula is  (score)^4 / 1000",
+            "Testing cost 0.01 ETH",
+            "Once you submit you will receive them automatically"
+        ],
+        "Why2": [
+            "Ex IQ 125: 244.141 IQCoins",
+            "Ex IQ 80: 40.960 IQCoins",
+            "Ex IQ 150: 506.250 IQCoins"
+        ]
+    },
+    "Services": [{
+            "icon": "fas fa-coins",
+            "name": "Total Supply",
+            "text": "There are a total of 500b IQCoins., Be the first to have them "
+        },
+        {
+            "icon": "fas fa-hands-helping",
+            "name": "Help Childrens",
+            "text": "20% of the tokens will be used to help childrens with special education needs."
+        },
+        {
+            "icon": "fas fa-chart-pie",
+            "name": "Uniswap",
+            "text": "50% of the tokens will go to uniswap liquidity pool. Join our telegram and twitter communities to be informed about Launching date"
+        },
+        {
+            "icon": "fas fa-chart-pie",
+            "name": "Testers and Helpers!",
+            "text": "20% of the tokens will be avaiable to earn taking the test."
+        },
+        {
+            "icon": "fas fa-chart-pie",
+            "name": "Dev and Marketing",
+            "text": "10% of the tokens will be for further Dev and Marketing."
+        },
+        {
+            "icon": "fas fa-users",
+            "name": "DAO",
+            "text": "We plan to build a DAO in the future, so every coin will have a vote."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fas fa-coins",
+            "title": "Earn IQC",
+            "text": "Take the test and earn IQCoins according to your score."
+        },
+        {
+            "icon": "fas fa-hands-helping",
+            "title": "Help childrens",
+            "text": "20% of the funds will go to help childrens with educational needs."
+        },
+        {
+            "icon": "fas fa-users",
+            "title": "UniSwap",
+            "text": "Once there is enough liquidity it will get listed on UniSwap, be the first to have it."
+        }
+    ]
+}
