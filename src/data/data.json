@@ -1,15 +1,15 @@
 {
     "Header": {
 
-        "title": "IQ TestChain",
+        "title": "IQ Test Coin",
         "paragraph": "The first IQ Test runing on Ethereum blockchain."
 
     },
     "About": {
-        "paragraph": "This is an untimed IQ Test that is stored on ethereum blockchain, you have all the time you need to answer the questions. This is a hard test and require a considerable amount of effort to be solved",
+        "paragraph": "IQCoin was born to help children with special needs. Both in the upper and lower end. If a child does not receive the education that he needs, he cant develop properly. Most schools are ment to be for childs between 80 and 120 IQ. We plan to develop a community that is aware of this problematic and we will have a dao to vote for proposals that make a better future for special childrens. The test is an untimed IQ Test that is stored on ethereum blockchain, you have all the time you need to answer the questions. This is a hard test and require a considerable amount of effort to be solved",
         "Why": [
             "The formula is  (score)^4 / 1000",
-            "Testing cost 0.01 ETH",
+            "Testing cost 0.05 ETH",
             "Once you submit you will receive them automatically"
         ],
         "Why2": [
@@ -21,7 +21,7 @@
     "Services": [{
             "icon": "fas fa-coins",
             "name": "Total Supply",
-            "text": "There are a total of 500b IQCoins., Be the first to have them "
+            "text": "There are a total of 100b IQCoins., Be the first to have them "
         },
         {
             "icon": "fas fa-hands-helping",
@@ -31,7 +31,7 @@
         {
             "icon": "fas fa-chart-pie",
             "name": "Uniswap",
-            "text": "50% of the tokens will go to uniswap liquidity pool. Join our telegram and twitter communities to be informed about Launching date"
+            "text": "50% of the tokens will go to uniswap liquidity pool. Join our telegram and twitter communities to be informed about the Launching date"
         },
         {
             "icon": "fas fa-chart-pie",
@@ -107,8 +107,9 @@
         "phone": "+1 123 456 1234",
         "email": "info@company.com",
         "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "twitter": "https://twitter.com/IQTestCoin",
+        "youtube": "youtube.com",
+        "telegram": "https://t.me/joinchat/nyUrSp_YjSs0M2Rh"
     },
     "Features": [{
             "icon": "fas fa-coins",

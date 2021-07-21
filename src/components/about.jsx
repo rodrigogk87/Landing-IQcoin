@@ -9,8 +9,8 @@ export const About = (props) => {
           <div className='col-xs-12 col-md-12 section-title'>
             <div className='about-text'>
               <p>{props.data ? props.data.paragraph : 'loading...'}</p>
-              <h3>How is many coins do i get?</h3>
-              <p>You get an amount proportional to to score you get</p>
+              <h3>How many coins do i get?</h3>
+              <p>You get an amount proportional to your score</p>
               <div className='list-style'>
                 <div className='col-lg-6 col-sm-6 col-xs-12'>
                   <ul>
@@ -31,6 +31,8 @@ export const About = (props) => {
                   </ul>
                 </div>
               </div>
+              <hr></hr>
+              <p>You always receive an amount of coins, even if you do not answer any correctly, you will receive 24010 coins for 0.05 eth.</p>
             </div>
           </div>
         </div>

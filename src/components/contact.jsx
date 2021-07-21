@@ -9,11 +9,6 @@ export const Contact = (props) => {
               <div className='social'>
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : '/'}>
-                      <i className='fab fa-facebook'></i>
-                    </a>
-                  </li>
-                  <li>
                     <a href={props.data ? props.data.twitter : '/'}>
                       <i className='fab fa-twitter'></i>
                     </a>

@@ -199,7 +199,6 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .intro h1 {
 	font-family: 'Raleway', sans-serif;
 	color: #fff;
-	font-size: 82px;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-top: 0;
@@ -565,7 +564,7 @@ color: #777;
 	background-image: linear-gradient(to right, #fb635c 0%, #948686 100%);
 	background-color: #943dfd;
 	position: fixed;
-	top: 100px;
+	top: 5px;
 }
 
 #test{
