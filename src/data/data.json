@@ -126,5 +126,7 @@
             "title": "UniSwap",
             "text": "Once there is enough liquidity it will get listed on UniSwap, be the first to have it."
         }
-    ]
+    ],
+    "GoToTest":{"dapp_url":"https://pensive-leakey-e162f8.netlify.app/" }
+
 }
