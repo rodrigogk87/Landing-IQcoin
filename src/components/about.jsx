@@ -32,7 +32,7 @@ export const About = (props) => {
                 </div>
               </div>
               <hr></hr>
-              <p>You always receive an amount of coins, even if you do not answer any correctly, you will receive 24010 coins for 0.05 eth.</p>
+              <p>You always receive an amount of coins, even if you do not answer any correctly, you will receive 24010 coins.</p>
             </div>
           </div>
         </div>

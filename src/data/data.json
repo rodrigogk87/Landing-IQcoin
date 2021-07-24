@@ -2,14 +2,14 @@
     "Header": {
 
         "title": "IQ Test Coin",
-        "paragraph": "The first IQ Test runing on Ethereum blockchain."
+        "paragraph": "The first IQ Test runing on Binance Smart Chain."
 
     },
     "About": {
-        "paragraph": "IQCoin was born to help children with special needs. Both in the upper and lower end. If a child does not receive the education that he needs, he cant develop properly. Most schools are ment to be for childs between 80 and 120 IQ. We plan to develop a community that is aware of this problematic and we will have a dao to vote for proposals that make a better future for special childrens. The test is an untimed IQ Test that is stored on ethereum blockchain, you have all the time you need to answer the questions. This is a hard test and require a considerable amount of effort to be solved",
+        "paragraph": "IQCoin was born to help children with special needs. Both in the upper and lower end. If a child does not receive the education that he needs, he cant develop properly. Most schools are meant to be for childs between 80 and 120 IQ. We plan to develop a community that is aware of this problematic and we will have a dao to vote for proposals that make a better future for special childrens. The test is an untimed IQ Test that is stored on a blockchain, you have all the time you need to answer the questions. This is a hard test and require a considerable amount of effort to be solved",
         "Why": [
             "The formula is  (score)^4 / 1000",
-            "Testing cost 0.05 ETH",
+            "Testing cost 0.5 BNB",
             "Once you submit you will receive them automatically"
         ],
         "Why2": [
@@ -30,8 +30,8 @@
         },
         {
             "icon": "fas fa-chart-pie",
-            "name": "Uniswap",
-            "text": "50% of the tokens will go to uniswap liquidity pool. Join our telegram and twitter communities to be informed about the Launching date"
+            "name": "PancakeSwap",
+            "text": "50% of the tokens will go to PancakeSwap liquidity pool. Join our telegram and twitter communities to be informed about the Launching date"
         },
         {
             "icon": "fas fa-chart-pie",
@@ -123,10 +123,9 @@
         },
         {
             "icon": "fas fa-users",
-            "title": "UniSwap",
-            "text": "Once there is enough liquidity it will get listed on UniSwap, be the first to have it."
+            "title": "PancakeSwap",
+            "text": "Once there is enough liquidity it will get listed on PancakeSwap, be the first to have it."
         }
     ],
-    "GoToTest":{"dapp_url":"https://pensive-leakey-e162f8.netlify.app/" }
-
+    "GoToTest":{"dapp_url":"https://mystifying-nightingale-58a6db.netlify.app" }
 }
