@@ -571,6 +571,10 @@ color: #777;
 	padding: 100px 0;
 }
 
+#contractaddress{
+	color:white;
+}
+
 @media (max-width: 768px) {
 #about img {
 	margin: 50px 0;
